@@ -3,3 +3,4 @@
 <p>This repository will contain branches</p>
 <p>This repository has main branch, feature1 branch and feature2 branch</p>
 <p>This is a line in readme file in main branch (button)</p>
+<p>This is a line in readme file in feature1 branch (dropdown)</p>
