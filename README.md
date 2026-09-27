@@ -5,3 +5,4 @@
 <p>This is a line in readme file in feature1 branch (dropdown)</p>
 <br>
 <p>This line was created to practice merging via Pull Requests (PR's)</p>
+<p>This is a line in readme file in feature2 branch (nobutton)</p>
